@@ -7,7 +7,7 @@
   * es6
   * less
 ## 上图
-![Alt Text](https://github.com/ChipingLew/el-app/blob/cc56d2676afff42be4eae6c7ff9c12a0e70d5222/el.app.gif)
+![Alt Text](https://github.com/ChipingLew/el-app/blob/master/el.app.gif)
 ## 进入项目根目录，运行 node prod.server.js
   * 启动服务 localhost:8088
 ## 项目结构
